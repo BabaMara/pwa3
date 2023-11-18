@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index-e640cf15.js";const c={},r={class:"mt-3"};function a(s,n){return t(),o("div",r," This PWA tutorial was made by Robert Baumgartner. Followed by Marie Ilic. ")}const i=e(c,[["render",a]]);export{i as default};
